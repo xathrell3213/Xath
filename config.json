@@ -6,5 +6,5 @@
     "sizes_to_check": ["XS", "S"],
     "sleep_min_seconds": 600,  
     "sleep_max_seconds": 720,  
-    "chrome_driver_path": "C:\Users\xathr\OneDrive\Masaüstü\chromedriver-win64"
+    "chrome_driver_path": "C:\users\xathr\oneDrive\masaüstü\chromedriver-win64"
 }
